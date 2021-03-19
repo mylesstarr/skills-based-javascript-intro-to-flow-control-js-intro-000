@@ -42,4 +42,3 @@ switch (age) {
   default: "You have an age";
 }
 }
-

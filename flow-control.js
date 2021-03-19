@@ -39,6 +39,7 @@ switch (age) {
   case 18:
   case 19:
   return "You are a teenager";
-  default: "You have an age";
+  default: 
+  retrun "You have an age";
 }
 }
